@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#body {
+    font: 13px Arial, Verdana
+}
+
+#inputContainer {
+    background-color: aquamarine;
+    padding: 3px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#message {
+    border: 0;
+    padding: 10px;
+    width: 90%;
+    
+}
+
+button {
+    width: 9%;
+    background-color: blue;
+    border: none;
+    padding: 10px;
+}
